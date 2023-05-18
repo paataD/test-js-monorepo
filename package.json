@@ -1,6 +1,9 @@
 {
   "name": "js-repo-test",
   "version": "1.0.0",
+  "workspaces": [
+    "packages"
+  ],
   "dependencies": {
   }
 }
